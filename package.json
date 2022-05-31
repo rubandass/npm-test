@@ -1,7 +1,7 @@
 {
-  "name": "npm-package-typescript",
+  "name": "npm-package-typescript-welcome-user",
   "version": "1.0.0",
-  "description": "Greeting message",
+  "description": "Greeting message npm typescript package",
   "main": "index.js",
   "types": "lib/index.d.ts",
   "scripts": {
